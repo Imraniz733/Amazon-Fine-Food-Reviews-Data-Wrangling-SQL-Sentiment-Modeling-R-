@@ -1,10 +1,9 @@
-# Amazon-Fine-Food-Reviews-Data-Wrangling-SQL-Sentiment-Modeling-R-
-
-# Amazon Fine Food Reviews Project
+# Amazon Fine Food Reviews Data Wrangling (SQL) & Sentiment Modeling (R)
 
 ## 🔹 Phase 1: SQL Data Cleaning
-- Removed duplicate reviews based on UserId + Text
+- Removed duplicate reviews based on UserId + ProductId + Score + Summary + Text
 - Converted Unix time to readable dates
+- Identify potentially spammy or suspicious review
 - Final cleaned dataset exported as CSV
 
 ## 🔹 Phase 2: Sentiment Analysis in R
@@ -13,7 +12,7 @@
 - Visualized insights from customer reviews
 
 ## 🛠️ Tools Used:
-- SQL Server
+- Microsoft SQL Server
 - R (tidytext, dplyr, ggplot2)
 
 ## 📁 Files:
@@ -21,5 +20,5 @@
 - `Phase2_Sentiment_Analysis_R/sentiment_analysis.R`
 
 ## 👀 Preview:
-📊 Sentiment chart, insights and cleaned data
+Cleaned data, 📊 Sentiment chart and insights.
 
