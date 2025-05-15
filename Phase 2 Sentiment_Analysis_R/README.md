@@ -2,7 +2,7 @@
 
 ## 📊 Phase 2: Sentiment Analysis Report
 
-👉 **[Click here to view the report (PDF)](Sentiment-Analysis.pdf)**
+👉 **[Click here to view the report (PDF)](https://drive.google.com/drive/u/0/folders/1YgDgTaGc-Fa0Y61BM95PJ6fEJoAxmg6V)**
 
 This report contains preprocessing, word frequency analysis, sentiment scoring, and visualizations.
 
