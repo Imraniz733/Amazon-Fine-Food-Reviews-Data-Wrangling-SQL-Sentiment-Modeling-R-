@@ -1,10 +1,8 @@
 # 📊 Phase 2: Sentiment Analysis (R)
 
-## 📊 Phase 2: Sentiment Analysis Report
+** This report contains preprocessing, word frequency analysis, sentiment scoring, and visualizations. 👉 **[Click here to view the report (PDF)](https://drive.google.com/file/d/1jWW_47-GIBo-XvbOKVfLT1suW2SRBK1O/view?usp=sharing)**
 
-👉 **[Click here to view the report (PDF)](https://drive.google.com/file/d/1jWW_47-GIBo-XvbOKVfLT1suW2SRBK1O/view?usp=sharing)**
 
-This report contains preprocessing, word frequency analysis, sentiment scoring, and visualizations.
 
 This phase focuses on analyzing the sentiments expressed in the customer reviews. The goal is to understand how customers feel about the product/service and identify patterns in positive and negative feedback.
 
