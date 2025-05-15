@@ -1,10 +1,8 @@
 # 📊 Phase 2: Sentiment Analysis (R)
 
-**This report contains preprocessing, word frequency analysis, sentiment scoring, and visualizations. 👉 [Click here to view the report (PDF)](https://drive.google.com/file/d/1jWW_47-GIBo-XvbOKVfLT1suW2SRBK1O/view?usp=sharing)**
-
-
-
 This phase focuses on analyzing the sentiments expressed in the customer reviews. The goal is to understand how customers feel about the product/service and identify patterns in positive and negative feedback.
+
+**This report contains preprocessing, word frequency analysis, sentiment scoring, and visualizations. 👉 [Click here to view the report (PDF)](https://drive.google.com/file/d/1jWW_47-GIBo-XvbOKVfLT1suW2SRBK1O/view?usp=sharing)**
 
 ## 🔍 Objectives
 - Exploratory data analysis (EDA).
