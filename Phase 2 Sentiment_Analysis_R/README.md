@@ -1,6 +1,6 @@
 # 📊 Phase 2: Sentiment Analysis (R)
 
-** This report contains preprocessing, word frequency analysis, sentiment scoring, and visualizations. 👉 **[Click here to view the report (PDF)](https://drive.google.com/file/d/1jWW_47-GIBo-XvbOKVfLT1suW2SRBK1O/view?usp=sharing)**
+** This report contains preprocessing, word frequency analysis, sentiment scoring, and visualizations. 👉 [Click here to view the report (PDF)](https://drive.google.com/file/d/1jWW_47-GIBo-XvbOKVfLT1suW2SRBK1O/view?usp=sharing)**
 
 
 
